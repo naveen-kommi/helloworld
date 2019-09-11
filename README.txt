@@ -1,2 +1,1 @@
-hey iam naveen
-iam a super cricketter==
+this file is for showing information about this project
